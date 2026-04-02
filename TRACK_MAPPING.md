@@ -77,7 +77,7 @@ across similar-mood zones. Leave everything else as original FFXI music.
 | music107.bgw | San d'Oria | **The Streets of Whiterun** | Both are noble medieval cities with warm string melodies. Iconic match. |
 | music152.bgw | Bastok | **The City Gates** | Industrial/lower register fits Bastok's grittier republic vibe. |
 | music151.bgw | Windurst | **Secunda** | Piano/harp magic feel matches Windurst's whimsical mage-city tone. |
-| music154.bgw | Metalworks | **Imperial Throne** | Regal, official — fits the heart of Bastok's government. |
+| music154.bgw | Metalworks | **Dawn** | Atmospheric, transitional — industrial government halls. |
 | music110.bgw | Jeuno | **Ancient Stones** | Joyful, bustling — Jeuno is the grand hub city. |
 | music117.bgw | Ru'Lude Gardens | **Solitude** | Soprano elegance for the upper-class palace gardens. |
 | music112.bgw | Selbina | **Journey's End** | Lush warm strings — cozy fishing village at sunset. |
@@ -137,7 +137,7 @@ across similar-mood zones. Leave everything else as original FFXI music.
 | music225.bgw | Pso'Xja | **Into Darkness** | Pure ominous darkness — ancient underground ruins. |
 | music228.bgw | Garden of Ru'Hmet | **Masser** | Ethereal choral — alien celestial dimension (reuse). |
 | music221.bgw | Movalpolos | **Shadows and Echoes** | Minimalist bass — goblin underground city (reuse). |
-| music156.bgw | Chateau d'Oraguille | **Towers and Shadows** | Fortress theme — political intrigue in the castle (reuse). |
+| music156.bgw | Chateau d'Oraguille | **Imperial Throne** | Regal, official — the royal palace of San d'Oria. |
 | music162.bgw | Heaven's Tower | **Kyne's Peace** | Peaceful, meditative — sacred Tarutaru tower. Perfect spiritual match. |
 | music207.bgw | Tu'Lia (Sky) | **Aurora** | Dynamic contrasts — the floating celestial islands. |
 | music211.bgw | Ro'Maeve | **Frostfall** | Cold desolation — the ruined land of the ancients (reuse). |
@@ -242,7 +242,7 @@ across similar-mood zones. Leave everything else as original FFXI music.
 | BGW slots left original | ~140+ |
 | Kept as original (boss) | 9 |
 | Kept as original (cutscene) | 10 |
-| Skyrim tracks NOT used | Dragonborn, Sovngarde, A Chance Meeting, Dawn, Silence Unbroken, A Winter's Tale, Caught Off Guard, Night Without Stars, Seven Thousand Steps, Unbound, Skyrim Atmospheres |
+| Skyrim tracks NOT used | Dragonborn, Sovngarde, A Chance Meeting, Silence Unbroken, Caught Off Guard, Night Without Stars, Seven Thousand Steps, Unbound, Skyrim Atmospheres |
 
 ---
 
@@ -286,9 +286,9 @@ SkyrimXI/
           music150.bgw    (Masser)
           music151.bgw    (Secunda)
           music152.bgw    (The City Gates)
-          music154.bgw    (Imperial Throne)
+          music154.bgw    (Dawn)
           music155.bgw    (Standing Stones)
-          music156.bgw    (Towers and Shadows)
+          music156.bgw    (Imperial Throne)
           music158.bgw    (From Past to Present)
           music162.bgw    (Kyne's Peace)
           music164.bgw    (Frostfall)

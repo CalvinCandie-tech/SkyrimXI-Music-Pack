@@ -28,7 +28,7 @@ Boss themes, cutscenes, and title screens are intentionally left as original FFX
 | music107.bgw | San d'Oria | The Streets of Whiterun |
 | music152.bgw | Bastok | The City Gates |
 | music151.bgw | Windurst | Secunda |
-| music154.bgw | Metalworks | Imperial Throne |
+| music154.bgw | Metalworks | Dawn |
 | music110.bgw | Jeuno | Ancient Stones |
 | music117.bgw | Ru'Lude Gardens | Solitude |
 | music112.bgw | Selbina | Journey's End |
@@ -84,7 +84,7 @@ Boss themes, cutscenes, and title screens are intentionally left as original FFX
 | music225.bgw | Pso'Xja | Into Darkness |
 | music228.bgw | Garden of Ru'Hmet | Masser |
 | music221.bgw | Movalpolos | Shadows and Echoes |
-| music156.bgw | Chateau d'Oraguille | Towers and Shadows |
+| music156.bgw | Chateau d'Oraguille | Imperial Throne |
 | music162.bgw | Heaven's Tower | Kyne's Peace |
 | music207.bgw | Tu'Lia (Sky) | Aurora |
 | music211.bgw | Ro'Maeve | Frostfall |

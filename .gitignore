@@ -1,0 +1,4 @@
+raw_audio/
+wav_output/
+*.py
+__pycache__/
